@@ -1,6 +1,6 @@
 # Hey, I'm Atom 👋
 
-Tsinghua EE grad turned serial entrepreneur. I write code for fun and occasionally for profit.
+Tsinghua EE grad turned serial entrepreneur.
 
 Currently going all-in on **[Splaz](https://splaz.app)** — an AI-powered social app where you can battle strangers in team debates, chat with custom AI agents, and create content that doesn't suck. Building it solo, full-stack, across iOS + Android + backend. It's a lot. Send help (or just star the repos).
 
